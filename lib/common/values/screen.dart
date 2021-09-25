@@ -1,0 +1,2 @@
+
+const screenWidth = 1;
